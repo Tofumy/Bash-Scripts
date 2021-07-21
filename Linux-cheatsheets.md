@@ -187,9 +187,6 @@ echo "Created hello/world.txt'
 
 
 
-
-
-
 Examples: To work on
 #! /usr/bin/bash 
 
