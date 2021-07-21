@@ -1,4 +1,4 @@
-""Linux Basic Cheat Sheet""
+"Linux Basic Cheat Sheet"
 
 # To make the script an executable, run the below:
 chmod +x script.sh
